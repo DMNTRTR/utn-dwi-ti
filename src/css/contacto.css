@@ -130,7 +130,7 @@ body {
 
 @media (min-width:600px){
   .contact-form{
-display: grid;
+    display: grid;
     padding: 20px;
     max-width: 1024px;
   
